@@ -35,8 +35,8 @@ float humidity = 0;
 unsigned long lastUpdate = 0;
 const unsigned long interval = 1000;     //Display refresh rate 1s (millis)
 
-const char* staSsid = "A1-D15672F2";
-const char* staPassword = "YedxfTrBZ0TEdf";
+const char* staSsid = "WiFi_Name";
+const char* staPassword = "Password";
 
 const char* apSsid = "AirQualityESP";
 const char* apPassword = "12345678";
